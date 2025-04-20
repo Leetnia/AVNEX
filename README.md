@@ -1,6 +1,6 @@
-Λ • V   ava __
-L N X   lin __
-Г Z И   liv __
-3 ∂ 9   tri __
-I - O   ino __
-π ~ ◊   pee __
+Λ • V   ava <br />
+L N X   lin <br />
+Г Z И   liv <br />
+3 ∂ 9   tri <br />
+I - O   ino <br />
+π ~ ◊   pee <br />
